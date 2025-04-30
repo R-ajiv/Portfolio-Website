@@ -84,7 +84,7 @@ const Hero: React.FC = () => {
               variants={itemVariants}
             >
               <a 
-                href="/src/assets/General_CV PES.pdf" 
+                href="/assets/General_CV PES.pdf" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 text-white rounded-lg transition-colors shadow-md hover:shadow-lg"
@@ -94,7 +94,7 @@ const Hero: React.FC = () => {
               </a>
 
               <a 
-                href="/src/assets/General_CV PES.pdf" 
+                href="/assets/General_CV PES.pdf" 
                 download
                 className="flex items-center gap-2 px-4 py-2 bg-green-600 hover:bg-green-700 dark:bg-green-500 dark:hover:bg-green-600 text-white rounded-lg transition-colors shadow-md hover:shadow-lg"
               >

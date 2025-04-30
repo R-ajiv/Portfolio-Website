@@ -6,21 +6,21 @@ export const certificates: Certificate[] = [
     title: 'Frontend Developer (React)',
     issuer: 'Hackerrank',
     date: 'Dec 2024',
-    image: 'src/assets/frontend.png'
+    image: '/assets/frontend.png'
   },
   {
     id: 2,
     title: 'Cloud Computing',
     issuer: 'NPTEL',
     date: 'Nov 2024',
-    image: 'src/assets/CloudComputing.png'
+    image: '/assets/CloudComputing.png'
   },
   {
     id: 3,
     title: 'Mastering Data Structures & Algorithms',
     issuer: 'Udemy',
     date: 'Feb 2024',
-    image: 'src/assets/DSA.png'
+    image: '/assets/DSA.png'
   },
   // {
   //   id: 4,
