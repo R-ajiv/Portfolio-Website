@@ -138,7 +138,7 @@ const Hero: React.FC = () => {
           >
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400 shadow-lg">
               <img 
-                src="/src/assets/profilepic.png" 
+                src="/assets/profilepic.png" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />
